@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taivu1998" alt="taivu1998" /> </p>
 
-- 🔭 I’m currently conducting deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
+- 🔭 I’m currently conducting **deep learning research** at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
 
-- 💻 I worked as software engineering interns at [Facebook](https://www.facebook.com) and [VNPT](https://vnpt.com.vn/english)
+- 💻 I worked as **software engineering interns** at [Facebook](https://www.facebook.com) and [VNPT](https://vnpt.com.vn/english)
 
-- 📝 I have experience with **machine learning**, **data science**, **back-end engineering**, **web development**, and **mobile app development**.
+- 📝 I have experience with **computer vision**, **NLP**, **reinforcement learning**, **data science**, **back-end engineering**, **web development**, and **mobile app development**.
 
 - 👯 I developed software for 
 
