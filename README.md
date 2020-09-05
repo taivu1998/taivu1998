@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tai 👋</h1>
-<h3 align="center">I'm a passionate software engineer with machine learning and full-stack development backgrounds.</h3>
+<h3 align="center">I'm a software engineer with a passion for machine learning and full-stack development.</h3>
 
 
 - 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
