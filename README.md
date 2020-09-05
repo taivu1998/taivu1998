@@ -9,7 +9,7 @@
 
 - 📝 I have experience with machine learning, data science, back-end engineering, web development, and mobile app development.
 
-- 🌱 I love solving **mathematic problems and algorithmic challenges.**
+- 🌱 I love solving **mathematic problems** and **algorithmic challenges**.
 
 - 📫 Feel free to reach me at **taiducvu1998@gmail.com**
 
