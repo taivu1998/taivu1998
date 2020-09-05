@@ -5,7 +5,7 @@
 
 - 🔭 I conducted **deep learning research** at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
-- 💻 I worked as **software engineering interns** at [Facebook](https://www.facebook.com) and [VNPT](https://vnpt.com.vn/english).
+- 💻 I worked as **software engineering interns** at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
 
 - 📝 I have experience with **computer vision**, **NLP**, **reinforcement learning**, **data science**, **back-end engineering**, **web development**, and **mobile app development**.
 
