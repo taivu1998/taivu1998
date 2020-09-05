@@ -7,7 +7,7 @@
 
 - 💻 I worked as a software engineering intern at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
 
-- 🌱 I developed software for 
+- 🌱 I developed software for [TreeHacks](https://www.treehacks.com/), [The Stanford Daily](https://www.stanforddaily.com/), [Tarjimly](https://www.tarjim.ly/en), and [Ronald McDonald House Charities](https://rmhcsd.org/).
 
 - 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
