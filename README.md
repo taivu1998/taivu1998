@@ -1,15 +1,15 @@
-<h1 align="center">Hi there👋, I'm Tai</h1>
+<h1 align="center">Hi there, I'm Tai 👋</h1>
 <h3 align="center">I'm a passionate software engineer with machine learning and full-stack development backgrounds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taivu1998" alt="taivu1998" /> </p>
 
 - 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
-- 💻 I worked as software engineering interns at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
-
-- 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
+- 💻 I worked as a software engineering intern at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
 
 - 🌱 I developed software for 
+
+- 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
 - ⚡ I love reading economics books, solving mathematic problems, and conquering algorithmic challenges.
 
