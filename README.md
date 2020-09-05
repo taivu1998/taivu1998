@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taivu1998" alt="taivu1998" /> </p>
 
-- 🔭 I conducted **deep learning research** at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
+- 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
-- 💻 I worked as **software engineering interns** at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
+- 💻 I worked as software engineering interns at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
 
-- 📝 I have experience with **computer vision**, **NLP**, **reinforcement learning**, **data science**, **back-end engineering**, **web development**, and **mobile app development**.
+- 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
 - 🌱 I developed software for 
 
-- ⚡ I love solving **mathematic problems** and **algorithmic challenges**.
+- ⚡ I love reading economics books, solving mathematic problems, and conquering algorithmic challenges.
 
 - 📫 Feel free to reach me at **taiducvu1998@gmail.com**.
 
