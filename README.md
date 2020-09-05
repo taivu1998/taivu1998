@@ -9,9 +9,9 @@
 
 - 📝 I have experience with **computer vision**, **NLP**, **reinforcement learning**, **data science**, **back-end engineering**, **web development**, and **mobile app development**.
 
-- 👯 I developed software for 
+- 🌱 I developed software for 
 
-- 🌱 I love solving **mathematic problems** and **algorithmic challenges**.
+- ⚡ I love solving **mathematic problems** and **algorithmic challenges**.
 
 - 📫 Feel free to reach me at **taiducvu1998@gmail.com**.
 
