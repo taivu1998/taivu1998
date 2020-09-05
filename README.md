@@ -7,7 +7,7 @@
 
 - 💻 I worked as a software engineering intern at [Facebook](https://www.facebook.com)
 
-- 📝 I have experience with [machine learning, data science, web development, and mobile app development.](machine learning, data science, web development, and mobile app development.)
+- 📝 I have experience with machine learning, data science, back-end engineering, web development, and mobile app development.
 
 - 🌱 I love solving **mathematic problems and algorithmic challenges.**
 
