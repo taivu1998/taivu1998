@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently conducting deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
 
-- 💻 I worked as a software engineering intern at [Facebook](https://www.facebook.com)
+- 💻 I worked as software engineering interns at [Facebook](https://www.facebook.com) and [VNPT](https://vnpt.com.vn/english)
 
-- 📝 I have experience with machine learning, data science, back-end engineering, web development, and mobile app development.
+- 📝 I have experience with **machine learning**, **data science**, **back-end engineering**, **web development**, and **mobile app development**.
+
+- 👯 I developed software for 
 
 - 🌱 I love solving **mathematic problems** and **algorithmic challenges**.
 
