@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taivu1998" alt="taivu1998" /> </p>
 
-- 🔭 I’m currently conducting **deep learning research** at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io).
+- 🔭 I conducted **deep learning research** at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
 - 💻 I worked as **software engineering interns** at [Facebook](https://www.facebook.com) and [VNPT](https://vnpt.com.vn/english).
 
