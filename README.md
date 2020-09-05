@@ -2,9 +2,9 @@
 <h3 align="center">I'm a software engineer with a passion for machine learning and full-stack development.</h3>
 
 
-- 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
-
 - 💻 I worked as a software engineering intern at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
+
+- 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
 - 🌱 I developed software for [TreeHacks](https://www.treehacks.com/), [The Stanford Daily](https://www.stanforddaily.com/), [Tarjimly](https://www.tarjim.ly/en), and [Ronald McDonald House Charities](https://rmhcsd.org/).
 
