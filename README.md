@@ -14,7 +14,7 @@
 
 - 📫 Feel free to reach me at **taiducvu1998@gmail.com**.
 
-
+<p>&nbsp;</p>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -66,10 +66,12 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+  &nbsp;
 </p>
 
 
 <p align="center"> 
+  &nbsp;
   <a href="https://linkedin.com/in/taiducvu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taiducvu" height="30" width="30" /></a>
   <a href="mailto:taiducvu1998@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="taiducvu" height="30" width="30" /></a>
   <a href="https://github.com/taivu1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="taiducvu" height="30" width="30" /></a>
