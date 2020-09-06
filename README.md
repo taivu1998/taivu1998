@@ -6,7 +6,7 @@
 
 - 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
-- 🌱 I developed software for [TreeHacks](https://www.treehacks.com/), [The Stanford Daily](https://www.stanforddaily.com/), [Tarjimly](https://www.tarjim.ly/en), and [Ronald McDonald House Charities](https://rmhcsd.org/).
+- 👨‍💻 I developed software for [TreeHacks](https://www.treehacks.com/), [The Stanford Daily](https://www.stanforddaily.com/), [Tarjimly](https://www.tarjim.ly/en), and [Ronald McDonald House Charities](https://rmhcsd.org/).
 
 - 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
