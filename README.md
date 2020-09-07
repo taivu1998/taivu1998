@@ -14,7 +14,7 @@
 
 - 📫 Feel free to reach me at **taiducvu1998@gmail.com**.
 
-<p>&nbsp;</p>
+<br />
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -69,7 +69,7 @@
   &nbsp;
 </p>
 
-
+<br />
 <p align="center"> 
   &nbsp;
   <a href="https://linkedin.com/in/taiducvu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taiducvu" height="30" width="30" /></a>
