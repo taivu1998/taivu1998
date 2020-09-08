@@ -8,7 +8,7 @@
 
 - 👨‍💻 I developed software for [TreeHacks](https://www.treehacks.com/), [The Stanford Daily](https://www.stanforddaily.com/), [Tarjimly](https://www.tarjim.ly/en), and [Ronald McDonald House Charities](https://rmhcsd.org/).
 
-- 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
+- 🎨 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
 - 💡 I love explore new technologies, reading economics books, solving mathematic problems, and conquering algorithmic challenges.
 
