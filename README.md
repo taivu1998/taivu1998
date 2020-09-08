@@ -10,7 +10,7 @@
 
 - 📝 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
-- ⚡ I love explore new technologies, reading economics books, solving mathematic problems, and conquering algorithmic challenges.
+- 💡 I love explore new technologies, reading economics books, solving mathematic problems, and conquering algorithmic challenges.
 
 - 📮 Let's connect:
   - 📨 Email: [taiducvu1998@gmail.com](mailto:taiducvu1998@gmail.com).
