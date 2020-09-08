@@ -15,8 +15,8 @@
 - 📮 Let's connect:
   - 📨 Email: [taiducvu1998@gmail.com](mailto:taiducvu1998@gmail.com).
   - 📥 LinkedIn: [linkedin.com/in/taiducvu](https://www.linkedin.com/in/taiducvu/).
-  - 🤝 Twitter: [twitter.com/taivu1998](https://twitter.com/taivu1998).
-  - 🌐 Website: [taivu1998.github.io](https://taivu1998.github.io).
+  - 🌱 Twitter: [twitter.com/taivu1998](https://twitter.com/taivu1998).
+  - 🌎 Website: [taivu1998.github.io](https://taivu1998.github.io).
   
   
 <br />
