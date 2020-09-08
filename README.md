@@ -12,8 +12,13 @@
 
 - ⚡ I love explore new technologies, reading economics books, solving mathematic problems, and conquering algorithmic challenges.
 
-- 📫 Feel free to reach me at **taiducvu1998@gmail.com**.
-
+- 📫 Let's connect:
+  - Email: [taiducvu1998@gmail.com](mailto:taiducvu1998@gmail.com).
+  - LinkedIn: [linkedin.com/in/taiducvu](https://www.linkedin.com/in/taiducvu/).
+  - Twitter: [twitter.com/taivu1998](https://twitter.com/taivu1998).
+  - Website: [taivu1998.github.io](https://taivu1998.github.io).
+  
+  
 <br />
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
