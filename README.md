@@ -57,6 +57,7 @@
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r-project" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/46636857/92527858-969a1180-f1dc-11ea-9a6e-052192fd6d12.png" alt="sparkar" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
