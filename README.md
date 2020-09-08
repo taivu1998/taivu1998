@@ -80,5 +80,6 @@
   &nbsp;
   <a href="https://linkedin.com/in/taiducvu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taiducvu" height="30" width="30" /></a>
   <a href="mailto:taiducvu1998@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="taiducvu" height="30" width="30" /></a>
+  <a href="https://twitter.com/taivu1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="taiducvu" height="30" width="30" /></a>
   <a href="https://github.com/taivu1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="taiducvu" height="30" width="30" /></a>
 </p>
