@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineer with a passion for machine learning and full-stack development.</h3>
 
 
-- 💻 I worked as a software engineering intern at [Facebook](https://www.facebook.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
+- 💻 I worked as a software engineering intern at [Facebook](https://about.fb.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
 
 - 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
 
