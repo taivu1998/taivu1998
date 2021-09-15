@@ -40,12 +40,12 @@
   <img src="https://icongr.am/devicon/gradle-plain.svg?size=108&color=61177c" alt="gradle" width="40" height="40"/>
   <img src="https://icongr.am/devicon/heroku-original.svg?size=108&color=61177c" alt="heroku" width="40" height="40"/>
   <img src="https://icongr.am/devicon/html5-original.svg?size=108&color=61177c" alt="html5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/illustrator-plain.svg?size=108&color=61177c" alt="illustrator" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/java-original.svg?size=108&color=61177c" alt="java" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=108&color=61177c" alt="javascript" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/linux-original.svg?size=108&color=61177c" alt="linux" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/mongodb-original.svg?size=108&color=61177c" alt="mongodb" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/mysql-original.svg?size=108&color=61177c" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
