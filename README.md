@@ -51,9 +51,9 @@
   <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=108&color=61177c" alt="npm" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/photoshop-plain.svg?size=108&color=61177c" alt="photoshop" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/pycharm-original.svg?size=108&color=61177c" alt="pycharm" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/python-original.svg?size=108&color=61177c" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qtio" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
