@@ -71,7 +71,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/yarn-original.svg?size=108&color=61177c" alt="yarn" width="40" height="40"/>
   &nbsp;
 </p>
 
