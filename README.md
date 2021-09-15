@@ -57,13 +57,13 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qtio" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original.svg?size=108&color=61177c" alt="react" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+<!--   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r-project" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/sass-original.svg?size=108&color=61177c" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/46636857/92527858-969a1180-f1dc-11ea-9a6e-052192fd6d12.png" alt="sparkar" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/swift-original.svg?size=108&color=61177c" alt="swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
