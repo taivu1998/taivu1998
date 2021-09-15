@@ -65,11 +65,11 @@
   <img src="https://user-images.githubusercontent.com/46636857/92527858-969a1180-f1dc-11ea-9a6e-052192fd6d12.png" alt="sparkar" width="40" height="40"/>
   <img src="https://icongr.am/devicon/swift-original.svg?size=108&color=61177c" alt="swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=108&color=61177c" alt="typescript" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/vim-original.svg?size=108&color=61177c" alt="vim" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=108&color=61177c" alt="visualstudio" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/vuejs-original.svg?size=108&color=61177c" alt="vuejs" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/wordpress-plain.svg?size=108&color=61177c" alt="wordpress" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/>
   <img src="https://icongr.am/devicon/yarn-original.svg?size=108&color=61177c" alt="yarn" width="40" height="40"/>
   &nbsp;
