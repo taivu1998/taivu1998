@@ -28,10 +28,10 @@
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://icongr.am/devicon/c-original.svg?size=108&color=61177c" alt="c" width="40" height="40"/>
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=108&color=61177c" alt="cplusplus" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/css3-original.svg?size=108&color=61177c" alt="css3" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/django-original.svg?size=108&color=61177c" alt="django" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/docker-original.svg?size=108&color=61177c" alt="docker" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/express-original.svg?size=108&color=61177c" alt="express" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
