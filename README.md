@@ -56,9 +56,9 @@
   <img src="https://icongr.am/devicon/python-original.svg?size=108&color=61177c" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qtio" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/react-original.svg?size=108&color=61177c" alt="react" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r-project" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
