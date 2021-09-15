@@ -47,8 +47,8 @@
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=108&color=61177c" alt="mongodb" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mysql-original.svg?size=108&color=61177c" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=108&color=61177c" alt="nodejs" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=108&color=61177c" alt="npm" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
