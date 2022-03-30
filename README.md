@@ -2,21 +2,19 @@
 <h3 align="center">I'm a software engineer with a passion for machine learning and full-stack development.</h3>
 
 
-- 💻 I worked as a software engineering intern at [Facebook](https://about.fb.com) and [Vietnam Posts and Telecommunications Group](https://vnpt.com.vn/english).
+- 💻 I worked as a software engineering intern at [Meta](https://about.facebook.com/meta/).
 
-- 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io), [Stanford InfoLab](http://infolab.stanford.edu/), and [Stanford ACM Lab](https://stanfordacm.com/).
-
-- 👨‍💻 I developed software for [TreeHacks](https://www.treehacks.com/), [The Stanford Daily](https://www.stanforddaily.com/), [Tarjimly](https://www.tarjim.ly/en), and [Ronald McDonald House Charities](https://rmhcsd.org/).
+- 🔭 I conducted deep learning research at [Stanford Machine Learning Group](https://stanfordmlgroup.github.io).
 
 - 🎨 I have experience with computer vision, NLP, reinforcement learning, data science, back-end engineering, web development, and mobile app development.
 
 - 💡 I love exploring new technologies, reading economics books, playing video games, solving mathematical problems, and conquering algorithmic challenges.
 
-- 📮 Let's connect.
+<!-- - 📮 Let's connect.
   - 📨 Email: [taiducvu1998@gmail.com](mailto:taiducvu1998@gmail.com).
   - 📥 LinkedIn: [linkedin.com/in/taiducvu](https://www.linkedin.com/in/taiducvu/).
   - 🌱 Twitter: [twitter.com/taivu1998](https://twitter.com/taivu1998).
-  - 🌎 Website: [taivu1998.github.io](https://taivu1998.github.io).
+  - 🌎 Website: [taivu1998.github.io](https://taivu1998.github.io). -->
   
   
 <br />
