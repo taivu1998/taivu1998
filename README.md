@@ -44,7 +44,7 @@
   <img src="https://icongr.am/devicon/express-original.svg?size=108&color=61177c" alt="express" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=108&color=61177c" alt="mongodb" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mysql-original.svg?size=108&color=61177c" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=108&color=61177c" alt="npm" width="40" height="40"/>
   <img src="https://icongr.am/devicon/django-original.svg?size=108&color=61177c" alt="django" width="40" height="40"/>
   <img src="https://icongr.am/devicon/vuejs-original.svg?size=108&color=61177c" alt="vuejs" width="40" height="40"/>
