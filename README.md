@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tai 👋</h1>
-<h3 align="center">I'm a software engineer with a passion for machine learning and full-stack development.</h3>
+<h3 align="center">I'm a research engineer with a passion for machine learning and full-stack development.</h3>
 
 - 💻 I am a senior machine learning engineer at [Meta](https://about.facebook.com/meta/).
 
