@@ -7,7 +7,7 @@
 
 - 🔭 I conducted deep learning research at [Stanford AI Lab](https://ai.stanford.edu/).
 
-- 🎨 I have experience with LLMs, reinforcement learning, reasoning, agents, NLP, computer vision, ML infra, data science, back-end engineering, web development, and mobile app development.
+- 🎨 I have experience with LLMs, reinforcement learning, reasoning, agents, NLP, computer vision, ML infra, back-end engineering, web development, and mobile app development.
 
 - 💡 I love exploring new technologies, reading economics books, playing video games, solving mathematical problems, and conquering algorithmic challenges.
 
