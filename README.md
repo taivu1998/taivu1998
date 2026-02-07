@@ -5,7 +5,7 @@
 
 - 📥 I worked as a software engineering intern at [Facebook](https://about.facebook.com/meta/).
 
-- 🔭 I conducted deep learning research at [Stanford AI Lab](https://ai.stanford.edu/) and [Stanford InfoLab](http://infolab.stanford.edu/).
+- 🔭 I conducted deep learning research at [Stanford AI Lab](https://ai.stanford.edu/).
 
 - 🎨 I have experience with LLMs, reinforcement learning, reasoning, agents, NLP, computer vision, ML infra, data science, back-end engineering, web development, and mobile app development.
 
