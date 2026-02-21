@@ -7,7 +7,7 @@
 
 - 🔭 I conducted deep learning research at [Stanford AI Lab](https://ai.stanford.edu/).
 
-- 🎨 I have experience with LLMs, post-training, reinforcement learning, agents, multimodality, and full-stack development.
+- 🎨 I have experience with LLM research (post-training, reinforcement learning, agents, multimodality), ML engineering, and full-stack development.
 
 - 💡 I love exploring new technologies, reading economics books, playing video games, solving mathematical problems, and conquering algorithmic challenges.
 
