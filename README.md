@@ -9,7 +9,7 @@
 
 - 🎨 I have experience with LLM research (post-training, reinforcement learning, agents, multimodality), ML engineering, and full-stack development.
 
-- 💡 I love exploring new technologies, reading economics books, playing video games, solving mathematical problems, and conquering algorithmic challenges.
+- 💡 I love exploring novel AI technologies, solving mathematical problems, and conquering algorithmic challenges.
 
 - 📮 Let's connect.
   - 📨 Email: [taiducvu1998@gmail.com](mailto:taiducvu1998@gmail.com).
